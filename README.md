@@ -1,4 +1,4 @@
-# learning-ajax
+# Learning-ajax
 Learning Ajax from basics
 
 ## :diamond_shape_with_a_dot_inside: **Project's goal:**
@@ -13,6 +13,11 @@ inside each<br> file there will be comments at the top of each variable, method 
 <li> clone the repo into your **htdocs** folder </li>
 <li> open in your browser ``localhost/learning-ajax``</li>
 <li> select which folder/file you would like to open and check</li>
+
+## :page_with_curl: **Languages used so far:**
+
+<li> Javascript </li>
+<li> PHP </li>
 
 ## :warning: **NOTE:**
 
